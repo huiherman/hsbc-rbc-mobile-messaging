@@ -52,6 +52,7 @@ A PowerPoint walkthrough of the full strategy and results is available here, inc
 - French version
 - Traditional Chinese version
 - Simplified Chinese version
+  
 [Download the presentation](https://github.com/huiherman/hsbc-rbc-mobile-messaging/raw/main/HSBC_to_RBC_Mobile_Messaging_Campaign.pptx)
 
 ## Purpose
