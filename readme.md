@@ -30,7 +30,7 @@ The following images illustrate how users were notified of the RBC transition:
 
 ## Presentation
 
-A [PowerPoint presentation](HSBC_to_RBC_Mobile_Messaging_Campaign.pptx) is included to walk through the strategy, visuals, and outcomes of the campaign.
+A PowerPoint presentation is included to walk through the strategy, visuals, and outcomes of the campaign: https://github.com/huiherman/hsbc-rbc-mobile-messaging/raw/main/HSBC_to_RBC_Mobile_Messaging_Campaign.pptx.
 
 ## Purpose
 
