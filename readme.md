@@ -47,7 +47,11 @@ The following images show how the banners appeared in the mobile app:
 
 ## Presentation
 
-A PowerPoint walkthrough of the full strategy and results is available here:  
+A PowerPoint walkthrough of the full strategy and results is available here, including four images that show how the banners appeared in the mobile app in four languages:
+- English version
+- French version
+- Traditional Chinese version
+- Simplified Chinese version
 [Download the presentation](https://github.com/huiherman/hsbc-rbc-mobile-messaging/raw/main/HSBC_to_RBC_Mobile_Messaging_Campaign.pptx)
 
 ## Purpose
